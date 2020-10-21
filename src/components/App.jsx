@@ -1,6 +1,8 @@
 import React from "react";
-import ReactGlobe from "react-globe"
+import Globe from "./Globe";
 
 export default function App() {
-  return <ReactGlobe height="100vh" width="100vw" />;
+  return <div>
+    <Globe />
+  </div>;
 }
