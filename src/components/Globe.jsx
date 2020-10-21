@@ -3,8 +3,7 @@ import ReactGlobe from "react-globe";
 
 export default function Globe() {
   return <ReactGlobe
-    height="100vh"
-    width="100vw"
+    height="90vh"
     options={{
       ambientLightColor: 'red',
       ambientLightIntensity: 1,
