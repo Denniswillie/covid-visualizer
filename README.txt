@@ -11,7 +11,5 @@ PROCEDURE
 In order to run this web app locally in from your browser, you will need to do
 the following things:
 
-1. Set up and install nodeJS, when installed, type 'node --version' to check if
-it's installed.
-2. Type 'npm i' to download all the dependencies.
-3. Type 'npm start' to run the program on your browser.
+1. Type 'npm i' to download all the dependencies.
+2. Type 'npm start' to run the program on your browser.

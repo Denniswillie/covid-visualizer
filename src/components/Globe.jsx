@@ -14,6 +14,7 @@ export default function Globe(props) {
     width="50vw"
     onClickMarker={onClickMarker}
     options={{
+      cameraDistanceRadiusScale: 8,
       ambientLightColor: 'red',
       ambientLightIntensity: 1,
       enableMarkerGlow: true,
